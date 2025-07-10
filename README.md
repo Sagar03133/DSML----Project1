@@ -17,4 +17,4 @@ Help real estate stakeholders optimize pricing strategies by identifying key fac
 - Improved pricing accuracy and competitive positioning of listings
 - Reduced time and guesswork involved in pricing properties manually
 
-Skills Used - Python (Pandas, Matplotlib, Seaborn, Skicit-learn), Tableau, Machine Learning, Feature Engineering, Model Evaluation
+Skills Used - Python (Pandas, Matplotlib, Seaborn, Skicit-learn), Tableau,EDA, Machine Learning, Feature Engineering, Model Evaluation
